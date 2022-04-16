@@ -61,4 +61,4 @@
 
 ## Contact me
 
-[<img src="assets/images/ln.png" width="50px">](www.linkedin.com/in/chris-carabine-b45aa31b)
+[<img src="ln.png" width="50px">](www.linkedin.com/in/chris-carabine-b45aa31b)
